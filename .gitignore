@@ -1,0 +1,16 @@
+# Eclipse
+BattleCode/.classpath
+BattleCode/.project
+BattleCode/.settings/
+
+# Intellij
+BattleCode/.idea/
+BattleCode/*.iml
+BattleCode/*.iws
+
+# Mac
+BattleCode/.DS_Store
+
+# Maven
+BattleCode/log/
+BattleCode/target/
